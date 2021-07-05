@@ -1,0 +1,129 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+nav{
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  width: 100px;
+  height: 100%;
+  background-color: whitesmoke;
+    -webkit-box-shadow: 20px 20px 20px rgb(227, 228, 222);
+    -moz-box-shadow: 20px 20px 20px rgb(227, 228, 222);
+    box-shadow: 20px 20px 20px rgb(227, 228, 222);
+    z-index:999;
+}
+
+.head{
+padding: 30px 30px
+}
+
+
+.nav1{
+  padding: 30px 30px
+}
+
+.nav1:hover{
+  background-color: rgb(174, 193, 214);
+  cursor: pointer;
+}
+
+.nav2{
+  padding: 30px 30px
+}
+
+.nav2:hover{
+  background-color: rgb(174, 193, 214);
+  cursor: pointer;
+}
+
+.nav3{
+  padding: 30px 30px
+}
+
+.nav3:hover{
+  background-color: rgb(174, 193, 214);
+  cursor: pointer;
+ 
+}
+
+.sp1{
+font-family: 'Times New Roman', Times, serif;
+font-size: larger;
+margin-left: -18px;
+}
+
+.sp2{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: larger;
+  margin-left: -15px;
+}
+  
+.sp3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    margin-left: -18px;
+}
+
+.back{
+  margin-left: 130px;
+  margin-top: 50px;
+}
+
+
+.container-fluid{
+  background-color: white;
+  height: 40px;
+  width: 100%;
+}
+
+.form{
+  margin-left: 300px;
+  background-color: rgb(233, 233, 233);
+}
+
+.lbody{
+  background-color: rgb(233, 233, 233);
+  height: 100%;
+}
+
+.span1{
+  margin-left: 150px;
+  margin-top: -25px;
+}
+
+#url{
+  width: 800px;
+  margin-top: 50px;
+  height: 30px;
+  border-radius: 5px;
+  background-color: white;
+}
+
+#file{
+  margin-top: 60px;
+  height: 150px;
+  width: 150px;
+  padding: 15px;
+  margin-bottom: 100%;
+  background-color: white;
+  font-size: 15px;
+}
+.span2{
+  margin-left: 175px;
+  margin-top: 50px;
+}
+
+.doc{
+margin-top: -84%;
+margin-left: 325px;
+font-size: larger;
+}
+
+
+
+
